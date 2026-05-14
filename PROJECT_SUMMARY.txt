@@ -1,0 +1,12 @@
+
+CS523 Enhanced Big Data Final Project
+
+This project modernizes the original Spark Streaming implementation by introducing:
+- Kafka real-time ingestion
+- Spark Structured Streaming
+- Spark SQL enrichment
+- Dashboard visualization
+- Distributed storage
+- Dockerized deployment
+
+The system simulates enterprise-scale streaming analytics pipelines commonly used in fintech and large-scale distributed systems.

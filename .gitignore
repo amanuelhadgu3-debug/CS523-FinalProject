@@ -1,0 +1,8 @@
+venv/
+.idea/
+checkpoint_hive/
+hive_output/
+output/
+spark-warehouse/
+metastore_db/
+.DS_Store
