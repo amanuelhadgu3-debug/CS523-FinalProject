@@ -1,4 +1,4 @@
-# CS523 Big Data Technology – Enhanced Final Project
+# CS523 Big Data Technology – Final Project
 
 # Real-Time E-Commerce Analytics and Distributed Monitoring Platform
 
